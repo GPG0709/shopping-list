@@ -1,0 +1,7 @@
+- Milk
+- Eggs
+- Apples
+- Oranges
+- Chicken
+- Beef
+- Toilet paper
